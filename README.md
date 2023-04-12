@@ -5,7 +5,7 @@ Cyber stalker is web-application based tool that helps in catching cyber stalker
 
 ## One Time Installation
 
-You need to have a web hosting service to host Cyber stalker and use anytime.
+You need a web hosting service  like 000webhost to host Cyber stalker tool. 
     
 ## How To Setup
 
@@ -13,7 +13,9 @@ You need to have a web hosting service to host Cyber stalker and use anytime.
 
 - Upload Cyberstalker Files on your hosting
 
-Note: You can also use it with apache2 or Ngrok for temporary session
+- Visit live URL
+
+Note: You can also use it with apache2 and Ngrok for temporary session
 
 ## Screenshots
 
