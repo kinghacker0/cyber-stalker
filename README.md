@@ -1,8 +1,6 @@
 # cyber-stalker
 Cyber stalker is web-application based tool that helps in catching cyber stalker or fake account users with social engineering.
 
-<img src="https://github.com/kinghacker0/cyber-stalker/blob/main/Screenshot.jpg" alt="cyberstalker-screenshot" height="400px" widht="800px:</img>
-
 
 
 ## One Time Installation
@@ -15,10 +13,10 @@ You need to have a web hosting service to host Cyber stalker and use anytime.
 
 - Upload Cyberstalker Files on your hosting
 
-```
 Note: You can also use it with apache2 or Ngrok for temporary session
 
 ## Screenshots
+<img src="https://github.com/kinghacker0/cyber-stalker/blob/main/Screenshot.jpg" alt="cyberstalker-screenshot" height="400px" widht="800px:</img>
 
 
 
