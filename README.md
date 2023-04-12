@@ -16,11 +16,9 @@ You need to have a web hosting service to host Cyber stalker and use anytime.
 Note: You can also use it with apache2 or Ngrok for temporary session
 
 ## Screenshots
-<img src="https://github.com/kinghacker0/cyber-stalker/blob/main/Screenshot.jpg" alt="cyberstalker-screenshot" height="400px" widht="800px:</img>
-
-
 
 ![App Screenshot](https://github.com/kinghacker0/cyber-stalker/blob/main/Screenshot.jpg)
 
 
 
+Join Telegram <link href="t.me/hackersking101">Hackersking</link>
