@@ -21,4 +21,4 @@ Note: You can also use it with apache2 or Ngrok for temporary session
 
 
 
-Join Telegram <a href="bio.site/hackersking.in">Hackersking</a>
+Join Telegram <a href="https://bio.site/hackersking.in">Hackersking</a>
