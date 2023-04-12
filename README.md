@@ -18,6 +18,6 @@ Note: You can also use it with apache2 or Ngrok for temporary session
 
 ## Screenshots
 
-![App Screenshot](https://github.com/kinghacker0/cyber-stalker/blob/main/Screenshot.jpg?raw=true)
+![App Screenshot](https://github.com/kinghacker0/cyber-stalker/blob/main/Screenshot.jpg)
 
 
