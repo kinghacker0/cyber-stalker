@@ -15,7 +15,7 @@ You need a web hosting service  like 000webhost to host Cyber stalker tool.
 
 - webisiteUrl/panel.php
 - Default ID: admin Password: admin
-- You can change default credebtials in config.php file
+- You can change default Credential in config.php file
 
 Note: You can also use it with apache2 and Ngrok for temporary session
 
